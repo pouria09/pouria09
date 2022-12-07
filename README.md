@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pouria09 from Germany and currently living in Sweden.
 - 👀 I’m interested in programming. 
-- 🌱 I’m currently learning Master Of Science in Embedded System.
 - 📫 rakhshan.pouria@gmail.com
 
 
